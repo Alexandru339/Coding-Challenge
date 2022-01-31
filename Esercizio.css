@@ -1,0 +1,80 @@
+body{
+  background-image: url(Sfondo-2.jpg);
+}
+
+#Logo{
+  width: 200px;
+  margin-top: 65px;
+  margin-bottom: 0;
+}
+
+h1{
+  color: lightgreen;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: sans-serif;
+}
+
+
+.Pulsanti{
+  display: inline-block;
+  background-color: lightgreen;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25%;
+  padding-right: 25%;
+  margin-top: 5px;
+}
+
+.Contenitore{
+  width: 1000px;
+  margin: auto;
+  background-color: black;
+  opacity: 0.7;
+  text-align: center;
+}
+
+main{
+  text-align: left;
+  padding-left: 9.4%;
+  margin-top: 15px;
+  padding-bottom: 70px;
+}
+
+.Monopattini{
+  color: white;
+  font-size: 15pt;
+  display: inline-block;
+}
+
+.Indirizzo, .Carica{
+  color: white;
+  font-size: 10pt;
+  padding-left: 0.5%;
+}
+
+.Margine-monopattini{
+  margin-top: 20px;
+}
+
+.Rettangolo1{
+  border: 10px solid orange;
+  background-color: orange;
+  margin-left: 5px;
+  margin-right: 72%;
+}
+
+.Rettangolo2{
+  border: 10px solid lightgreen;
+  background-color: lightgreen;
+  margin-left: 5px;
+  margin-right: 44%;
+}
+
+.Rettangolo3{
+  border: 10px solid red;
+  background-color: red;
+  margin-left: 5px;
+  margin-right: 87%;
+}
